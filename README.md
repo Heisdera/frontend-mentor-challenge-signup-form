@@ -60,7 +60,7 @@ Working on this project has taught me how to validate a sign up form and also ma
 
 ### Continued development
 
-To be able to fluently code using just vanilla javascript.
+To be able to proficiently code using vanilla javascript.
 
 ### Useful resources
 
