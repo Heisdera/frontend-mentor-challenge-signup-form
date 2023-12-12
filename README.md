@@ -40,7 +40,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-sign-up-form-using-css-flexbox-qhgnnrTtxT)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/responsive-sign-up-form-using-css-flexbox-qhgnnrTtxT)
 - Live Site URL: [Github](https://heisdera.github.io/frontend-mentor-challenge-signup-form/)
 - Live Site URL: [Vercel](https://frontend-mentor-challenge-signup-form.vercel.app/)
 
